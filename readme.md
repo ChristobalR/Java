@@ -13,4 +13,4 @@ Java es uno de los lenguajes más poderosos y versátiles 🌍, usado en aplicac
 - **Multihilo y concurrencia**: Crea aplicaciones rápidas y eficientes.
 - **Patrones de diseño** y mucho más…
 
-Este curso es ideal para **principiantes** y para aquellos que desean **perfeccionar sus habilidades** en Java. ¡Vamos a aprender juntos y a construir cosas increíbles! 🎯👨‍💻👩‍💻
+Este curso es ideal para **principiantes** y para aquellos que desean **perfeccionar sus habilidades** en Java. ¡Vamos a aprender juntos y a construir cosas increíbles! 🎯👨‍💻
