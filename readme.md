@@ -1,4 +1,5 @@
-# 🚀 Curso Completo de Java
+
+![Texto alternativo](https://blog.facialix.com/wp-content/uploads/2024/05/curso_introduccion_programacion_java_udemy_gratis.jpg)
 
 ¡Bienvenido al **Curso Completo de Java**! 🎉 En este curso, aprenderás **todo lo que necesitas saber** sobre Java, desde los **fundamentos básicos** hasta las **técnicas avanzadas** para crear aplicaciones robustas y eficientes.
 
